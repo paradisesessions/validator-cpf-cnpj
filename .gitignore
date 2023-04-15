@@ -1,0 +1,8 @@
+# folders
+vendor
+node_modules
+.vscode
+
+# files
+.phpunit.result.cache
+composer.lock
