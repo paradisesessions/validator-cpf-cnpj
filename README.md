@@ -23,7 +23,7 @@ Uma simples classe para validar CPF|CNPJ.
 
 ## Installation
 
-##### By [Composer](https://getcomposer.org/)
+###### By [Composer](https://getcomposer.org/)
 
 Via [Composer](https://getcomposer.org/)
 
@@ -55,7 +55,7 @@ $document->format();
 $document->getDocument();
 ```
 
-##### Example of use for CNPJ validation and formatting.
+###### Example of use for CNPJ validation and formatting.
 
 Exemplo de uso para validação e formatação de CNPJ.
 
@@ -72,7 +72,7 @@ $document->format();
 $document->getDocument();
 ```
 
-##### Example of use for CPF or CNPJ, recognizing type by class
+###### Example of use for CPF or CNPJ, recognizing type by class
 
 Exemplo de uso para validação e formatação de CPF ou CNPJ, reconhecendo o tipo pela classe.
 
@@ -91,7 +91,7 @@ $document->getDocument();
 
 ## Tests
 
-##### Test class with [PHPUnit](https://phpunit.de/).
+###### Test class with [PHPUnit](https://phpunit.de/).
 
 Testes na classe realizados com [PHPUnit](https://phpunit.de/).
 
