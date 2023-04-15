@@ -72,8 +72,6 @@ $document->format();
 $document->getDocument();
 ```
 
-.
-
 ##### Example of use for CPF or CNPJ, recognizing type by class
 
 Exemplo de uso para validação e formatação de CPF ou CNPJ, reconhecendo o tipo pela classe.
