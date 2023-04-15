@@ -12,7 +12,7 @@
 <p align="center">
    <img src="https://img.shields.io/badge/php-%5E8.1-green?style=for-the-badge" alt="Version" />
    <img src="https://img.shields.io/badge/version-1.0-red?style=for-the-badge" alt="PHP Version" />
-   [<img src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge" alt="License" />](LICENSE)
+   <img src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge" alt="License" />
 </p>
 
 ## Project
