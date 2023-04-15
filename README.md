@@ -43,7 +43,7 @@ composer require paradisesessions/validator-cpf-cnpj
 Exemplo de uso para validação e formatação de CPF.
 
 ```php
-$document = new \ParadiseSessions\Validator\Cpf('123.123.123.00');
+$document = new \ParadiseSessions\Validator\Cpf('123.123.123-00');
 
 // Verify is valid
 $document->isValid();
@@ -60,7 +60,7 @@ $document->getDocument();
 Exemplo de uso para validação e formatação de CNPJ.
 
 ```php
-$document = new \ParadiseSessions\Validator\Cnpj('123.123.123.00');
+$document = new \ParadiseSessions\Validator\Cnpj('06.990.590/0001-23');
 
 // Verify is valid
 $document->isValid();
