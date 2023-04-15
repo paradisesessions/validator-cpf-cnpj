@@ -3,10 +3,10 @@
 </h1>
 
 <p align="center">
-    <a href="#-installation">Installation</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="#-technologies">Technologies</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="#-using">Using</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="#-tests">Tests</a>
+    <a href="#installation">Installation</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="#technologies">Technologies</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="#using">Using</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="#tests">Tests</a>
 </p>
 
 <p align="center">
